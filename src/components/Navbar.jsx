@@ -24,11 +24,11 @@ const Navbar = () => {
             <li className='mx-3'>LOOKBOOK</li>
           </ul>
         </div>
-        <div>
+        <div className='flex'>
           {/* <img src={} alt="" />  */}
-          <p><CiSearch /></p>
-          <p><CiHeart /></p>
-          <p><CiShoppingCart /></p>
+          <CiSearch size={25} className='mx-3'/>
+          <CiHeart size={25} className='mx-3' />
+          <CiShoppingCart size={25} className='mx-3' />
 
         </div>
       </div>
