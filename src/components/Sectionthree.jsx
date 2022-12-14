@@ -13,7 +13,7 @@ const Sectionthree = () => {
           <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6'>
             
               <div className=''>
-              <img src={red} className="" />
+              <img src={red} alt="" />
               <div className='text-left'>
                     <p>IGURE</p>
                     <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>
@@ -22,7 +22,7 @@ const Sectionthree = () => {
                       
           </div>
           <div className=''>
-              <img src={yellow} className=" " />
+              <img src={yellow} alt=" " />
               <div className='text-left'>
                     <p>IGURE</p>
                     <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>
@@ -31,7 +31,7 @@ const Sectionthree = () => {
                       
           </div>
           <div className=''>
-              <img src={chloe} className=" " />
+              <img src={chloe} alt=" " />
               <div className='text-left'>
                   <p>IGURE</p>
                       <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>
@@ -40,7 +40,7 @@ const Sectionthree = () => {
                       
           </div>
          <div className=''>
-              <img src={black} className=" " />
+              <img src={black} alt=" " />
               <div className='text-left'>
                   <p>IGURE</p>
                       <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>

@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { CiSearch } from "react-icons/ci";
 import { CiHeart } from "react-icons/ci";
 import { CiShoppingCart } from "react-icons/ci";
@@ -6,10 +6,10 @@ import { CiShoppingCart } from "react-icons/ci";
 
 
 const Navbar = () => {
-  const [nav, setNav] = useState(false)
-  const handleNav = () => {
-    setNav (!nav)
-  }
+  // const [nav, setNav] = useState(false)
+  // const handleNav = () => {
+  //   setNav (!nav)
+  // }
 
   return (
     <div className='w-full h-[90px] '>

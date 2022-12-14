@@ -12,7 +12,7 @@ const Sectionfour = () => {
           <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6'>
             
               <div className=''>
-              <img src={eleven} className="" />
+              <img src={eleven} alt="" />
               <div className='text-left'>
                     <p>IGURE</p>
                     <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>
@@ -21,7 +21,7 @@ const Sectionfour = () => {
                       
           </div>
           <div className=''>
-              <img src={twelve} className=" " />
+              <img src={twelve} alt=" " />
               <div className='text-left'>
                     <p>IGURE</p>
                     <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>
@@ -30,7 +30,7 @@ const Sectionfour = () => {
                       
           </div>
           <div className=''>
-              <img src={ten} className=" " />
+              <img src={ten} alt=" " />
               <div className='text-left'>
                   <p>IGURE</p>
                       <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>
@@ -39,7 +39,7 @@ const Sectionfour = () => {
                       
           </div>
          <div className=''>
-              <img src={thirteen} className=" " />
+              <img src={thirteen} alt=" " />
               <div className='text-left'>
                   <p>IGURE</p>
                       <p className='font-bold'>GREEN MUSCLE FIT POLO SHIRT</p>
